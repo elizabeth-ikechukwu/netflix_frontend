@@ -108,12 +108,6 @@ sudo systemctl status netflix-frontend
 ## Author
 
 **Ikechukwu Elizabeth Nkwo**
-Cloud and DevOps Engineer Trainee — AWS · Linux · Infrastructure
+Cloud and DevOps Engineer — AWS · Linux · Infrastructure
 [LinkedIn](https://linkedin.com/in/uroko-elizabeth-) · [GitHub](https://github.com/elizabeth-ikechukwu)
 ```
-
----
-
-Commit message for both:
-```
-Update README — add Java 17 and Node.js 20 installation steps
